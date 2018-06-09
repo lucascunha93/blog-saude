@@ -1,0 +1,72 @@
+# Translation of Themes - Dream Spa in Portuguese (Brazil)
+# This file is distributed under the same license as the Themes - Dream Spa package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2018-05-28 13:44:47+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: pt_BR\n"
+"Project-Id-Version: Themes - Dream Spa\n"
+
+#. Description of the plugin/theme
+msgid "Dream Spa is an elegant WordPress child theme of SpaSalon. It is perfect to build an online store, and suitable for SPAs, beauty salons, beauty care activities, girly websites, hair salons, health-related activities, hospitality, massage parlors, medical, physiotherapy, wellness, yoga, health blogs, and any other type of business. You can create an effective online shop presence, since Dream Spa supports WooCommerce. The separate WooCommerce sidebars added to the shop pages allow you to add different sets of widgets and you can also customize the layout of the sidebars on the Business Template. All without adding a single line of code. Navigate to Appearance > Customize to start customizing. Check the PRO version demo at https://webriti.com/demo/wp/dream-spa/"
+msgstr "Dream Spa é um tema filho do tema WordPress Spasalon perfeito para construir uma loja online, spas, salões de beleza, atividades de beleza, sites femininos, atividades relacionadas à saúde, hospitais, casas de massagem, médicos, fisioterapia, bem-estar, yoga, blogs de saúde e qualquer outro tipo de negócio. Você pode criar uma presença efetiva com uma loja on-line, pois o Dream Spa oferece suporte ao WooCommerce. As laterais separadas do WooCommerce adicionadas às páginas da loja permitem que você adicione diferentes conjuntos de widgets e também personalizar o layout das laterais no Modelo de Negócios. Tudo sem uma única linha de código. Navegue até Aparência > Personalizar para começar a personalizar. Confira a demonstração da versão PRO em https://webriti.com/demo/wp/dream-spa/"
+
+#. Theme Name of the plugin/theme
+msgid "Dream Spa"
+msgstr "Dream Spa"
+
+#: functions.php:29
+msgid "The Essence of Natural Beauty"
+msgstr "A Essência da Beleza Natural"
+
+#: functions.php:30
+msgid "Dream Spa offers high quality, natural services to attentive clients!"
+msgstr "Dream Spa oferece serviços de alta qualidade para clientes atentos!"
+
+#: 404.php:23
+msgid "Go Back"
+msgstr "Voltar"
+
+#: 404.php:23
+msgid "We are sorry, but the page you are looking for does not exist."
+msgstr "Lamentamos, mas a página que você está procurando não existe."
+
+#: 404.php:19
+msgid "Oops! Page not found"
+msgstr "Opa! Página não encontrada"
+
+#: 404.php:21
+msgid "4"
+msgstr "4"
+
+#: archive.php:39 category.php:39 index.php:38 search.php:39 tag.php:38
+msgid "Previous"
+msgstr "Anteriores"
+
+#: archive.php:40 category.php:40 index.php:39 search.php:40 tag.php:39
+msgid "Next"
+msgstr "Próximo"
+
+#. Template Name of the plugin/theme
+msgid "Page Full Width"
+msgstr "Página em largura total"
+
+#: search.php:24
+msgid "Search results for %s"
+msgstr "Buscar resultados para %s"
+
+#. Theme URI of the plugin/theme
+msgid "https://webriti.com/dream-spa-child-version-details-page/"
+msgstr "https://webriti.com/dream-spa-child-version-details-page/"
+
+#. Author of the plugin/theme
+msgid "webriti"
+msgstr "webriti"
+
+#. Author URI of the plugin/theme
+msgid "https://www.webriti.com"
+msgstr "https://www.webriti.com"
